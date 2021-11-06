@@ -1,0 +1,34 @@
+{
+  "name": "mi-portafolio",
+  "version": "Prealfa",
+  "description": "Portafolio sobre mi perfil profesional, mi experiencia y habilidades, así como los proyectos en los que he trabajado.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp start",
+    "imagesmin": "gulp imgmin"
+  },
+  "keywords": ["Bootstrap", "Gulp", "Sass", "HTML5", "responsive-design", "web developer", "frontend"],
+  "author": "Victor Manuel Rodriguesz Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@popperjs/core": "^2.10.2",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "jquery-aniview": "^1.0.4",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/register": "^7.16.0",
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-image": "^6.2.1",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.4"
+  }
+}
