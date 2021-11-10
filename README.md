@@ -25,7 +25,7 @@ git clone https://github.com/Victorrot44/mi-portafolio.git
 Instalar dependencias.
 
 ```
-git install
+npm install
 ```
 
 Optimizar imágenes.
