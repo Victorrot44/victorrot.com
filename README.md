@@ -42,10 +42,10 @@ npm run start
 
 ## Contactarme por:
 
-- Linkedin [Victor Rodriguez] (https://www.linkedin.com/in/Victorrot44/)
-- Twitter [@victorrot44] (https://twitter.com/victorrot44)
+- Linkedin [Victor Rodriguez](https://www.linkedin.com/in/Victorrot44/)
+- Twitter [@victorrot44](https://twitter.com/victorrot44)
 
 ## Licencia :page_with_curl:.
 
-Copyright &copy; 2021 **[Victorrot44] (https://github.com/Victorrot44)**
+Copyright &copy; 2021 **[Victorrot44](https://github.com/Victorrot44)**
 Este proyecto tiene licencia del **MIT**
